@@ -1,0 +1,1 @@
+{"name":"Local: app","url":"/Users/pramana/Documents/code/misc/cat coding/app.py","tests":[{"id":1731200975451,"input":"001 010 000 010 000001 010 000011 011 100","output":"001 110 111 101 110 111 011 100110 100"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/pramana/Documents/code/misc/cat coding/app.py","group":"local","local":true}
